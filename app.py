@@ -1,5 +1,1 @@
-print('main')
-
-def plus(a, b):
-    return a + b
-
+print('hello world1209210')
